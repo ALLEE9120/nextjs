@@ -1,2 +1,2 @@
 # nextjs
-Learning nextjs
+Learning nextjs crash course
